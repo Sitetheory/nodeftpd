@@ -115,7 +115,7 @@
     "stat-mode": "^0.2.1"
   },
   "devDependencies": {
-    "async": "~0.1.15",
+    "async": "~3.1.0",
     "collect-stream": "^1.1.1",
     "eslint": "^1.10.3",
     "istanbul": "~0.2.4",
